@@ -1,2 +1,2 @@
 # Coaching-Analytics-Repository
-Repository hosting all items involved in coaching analytics project 
+Collection of volleyball game data to analyze and inform trends and insights for coaching decision-making
