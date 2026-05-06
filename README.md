@@ -6,7 +6,7 @@ Key Issues:
 - Lack of Basic Team Statistics Collection, Analysis, Data Utilization Structure for High School Athletics
 
 Project Goal: 
-Establish Foundation for Data Supported Coach Decision-Making through Real World ETL Practices, Analysis, Power BI Fundamentals, and Maintainance Protocols. 
+- Establish Foundation for Data Supported Coach Decision-Making through Real World ETL Practices, Analysis, Power BI Fundamentals, and Maintainance Protocols. 
 
 Signals of Progress: 
 - Positive Game Performance Improvement Trend Over Time (7 Weeks)
@@ -14,14 +14,14 @@ Signals of Progress:
 - Positive Win Rate 
 
 Week 1: 
-Statistics Sheet Draft and Collection of Game Performance Data in Week 1 for Preliminary Project Structuring 
+- Statistics Sheet Draft and Collection of Game Performance Data in Week 1 for Preliminary Project Structuring 
 
 Week 2: 
 - Improve on Statistics Sheet Format and Detail New Data Collection Methods to Team Managers
 - Empirical Observation of Data to Inform Decisions Regarding Team Strategy (Identity - Core Values and Team Culture) 
 
 Week 3:
-Configure Data Source, Transformation, Normalized Model, then Load in Microsoft Power BI (ETL in Power BI)
+- Configure Data Source, Transformation, Normalized Model, then Load in Microsoft Power BI (ETL in Power BI)
 
 Week 4:
-In Progress 
+- In Progress 
